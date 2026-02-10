@@ -1,5 +1,7 @@
 # pattern.h
 
+[![Build](https://github.com/bamless/pattern.h/actions/workflows/build.yml/badge.svg)](https://github.com/bamless/pattern.h/actions/workflows/build.yml)
+
 A **single-header C library** that implements **Lua-style pattern matching**, including captures, character classes, repetition operators, balanced matches, frontier patterns, and detailed error reporting.
 
 
